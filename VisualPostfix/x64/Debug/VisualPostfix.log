@@ -1,0 +1,7 @@
+﻿  VPostfix.cpp
+C:\Users\User\Documents\GitHub\AlgorithmsAndDataStructures\Postfixlib\Postfix.h(51,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Documents\GitHub\AlgorithmsAndDataStructures\Postfixlib\Postfix.h(52,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Documents\GitHub\AlgorithmsAndDataStructures\Postfixlib\Postfix.h(70,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Documents\GitHub\AlgorithmsAndDataStructures\Postfixlib\Postfix.h(71,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  VPostfix.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  VisualPostfix.vcxproj -> C:\Users\User\Documents\GitHub\AlgorithmsAndDataStructures\Build\x64\Debug\VisualPostfix.exe
